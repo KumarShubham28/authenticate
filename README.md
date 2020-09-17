@@ -15,3 +15,9 @@ REQUIREMENTS
 This routes requires the following packages:
 * Express
 * body-parser
+* passport
+* JWT
+
+PREREQUISITES
+------------
+You need to have installed Node.js, NPM and MongoDB in your System.
